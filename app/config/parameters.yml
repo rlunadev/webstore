@@ -1,0 +1,14 @@
+parameters:
+    database_driver: pdo_mysql
+    database_host: '127.0.0.1:900'
+    database_port: '3306'
+    database_name: PRUEBA_SYMFONY
+    database_user: root
+    database_password: null
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: 003913a1e66dc6102f2d0e0a0c1edb46d
+    database_path: '123'

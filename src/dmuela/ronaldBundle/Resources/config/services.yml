@@ -1,0 +1,7 @@
+parameters:
+#    dmuelaronald.example.class: dmuela\ronaldBundle\Example
+
+services:
+#    dmuelaronald.example:
+#        class: %dmuelaronald.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
